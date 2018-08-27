@@ -1,8 +1,8 @@
 {
-  "name": "typescript-react-mobx-boilerplate",
+  "name": "neo-x exercise",
   "version": "1.0.0",
   "private": true,
-  "description": "A frontend boilerplate with React, MobX and Typescript",
+  "description": "exercising with typescript + react + mobx",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,6 @@
     "build": "webpack -p --progress --colors",
     "prettier": "prettier --write \"src/**/*.{ts,tsx,css}\""
   },
-  "license": "MIT",
   "devDependencies": {
     "@types/classnames": "^2.2.3",
     "@types/node": "^9.4.6",
